@@ -136,7 +136,7 @@ hr {
   font-size: 1.2em;
 }
 
-#back2Top {
+#Go2Top {
     width: 40px;
     line-height: 40px;
     overflow: hidden;
@@ -151,13 +151,13 @@ hr {
     position: fixed;
     bottom: 50px;
     right: 0;
-    background-color: #ffaaaa;
+    background-color: #DDD;
     color: #555;
     text-align: center;
     font-size: 30px;
     text-decoration: none;
 }
-#back2Top:hover {
+#Go2Top:hover {
     background-color: #DDF;
     color: #000;
 }
